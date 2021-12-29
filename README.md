@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on face biometric and CCTV surveillence projects at Axiata Digital Labs.
-- 🌱 I love Robotics and Autonomous Systems.
-- 📫 How to reach me: sahanhemachandra@gmail.com / https://sahanhe.github.io
-- 😄 Pronouns: He/Him
+- 🌱 I love Algorithms and Programming, Robotics and Autonomous Systems.
+- 📫 How to reach me: sahanhemachandra@gmail.com 
 - ⚡ Likes: Computer Games and History Facts
 
