@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on face biometric and CCTV surveillence projects at Axiata Digital Labs.
+- 🔭 I’m currently working on standard libraries of [Ballerina](https://ballerina.io/) and I have experience working on face biometric, eKYC-vKYC, and CCTV surveillence projects at Axiata Digital Labs.
 - 🌱 I love Algorithms and Programming, Robotics and Autonomous Systems.
 - 📫 How to reach me: sahanhemachandra@gmail.com 
 - ⚡ Likes: Computer Games and History Facts
