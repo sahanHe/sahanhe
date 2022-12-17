@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I have experience working on face biometric, eKYC-vKYC, and CCTV surveillence projects at Axiata Digital Labs.
 - 🌱 I love Algorithms and Programming, Robotics and Autonomous Systems.
 - 📫 How to reach me: sahanhemachandra@gmail.com 
-- ⚡ Likes: Computer Games and History Facts
+- ⚡ Likes: Computer Games, Cooking, and History Facts
 
